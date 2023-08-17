@@ -12,7 +12,7 @@ https://github.com/users/GioGardinali/projects/3/views/1
 <br><br>
 
 <div align="center" style="display:inline_block"><br/>
-    <img align="center" high="30%" alt="gnl" src="https://github.com/GioGardinali/libft-vila_git_force/assets/78451238/f1df48f4-56db-4c7f-b862-2ac88e5c4e7c"/>
+    <img align="center" high="30%" alt="gnl" src="https://github.com/GioGardinali/gnl-vila_git_force/blob/main/ce7f7249-85d2-4938-8210-33922db6302e.png"/>
 </div>
 
 <hr>
