@@ -20,7 +20,7 @@ https://github.com/users/GioGardinali/projects/3/views/1
 <br><br>
 O Board é dessa forma como mostrado abaixo:
 <div align="center" style="display:inline_block"><br/>
-    <img align="center" high="50%" alt="board" src="https://github.com/GioGardinali/libft-vila_git_force/assets/78451238/ebecccda-6254-4450-a12d-92b257b6bfad"/>
+    <img align="center" high="50%" alt="board" src="https://github.com/GioGardinali/gnl-vila_git_force/blob/main/f4d5a62f-dd9b-4f51-bf1b-2db61f989e7f.png"/>
 </div>
 
 <br><br>
